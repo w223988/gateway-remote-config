@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE1CB885",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+	
+    "ref_latitude": 22.382917,
+    "ref_longitude":114.214741,
+    "ref_altitude": 27,
+    "contact_email": "g1167644@study.ouhk.edu.hk",
+    "description": "Hong Kong"
+  }
+}
